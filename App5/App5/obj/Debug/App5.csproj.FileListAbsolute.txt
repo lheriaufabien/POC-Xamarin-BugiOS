@@ -1,0 +1,14 @@
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\App5.dll
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\App5.pdb
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\obj\Debug\App5.dll
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\obj\Debug\App5.pdb
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\obj\Debug\App5.dll.mdb
+c:\users\flheriau\documents\visual studio 2015\Projects\App5\App5\App5\bin\Debug\App5.dll.mdb
